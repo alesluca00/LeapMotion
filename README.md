@@ -130,7 +130,7 @@ Leap Motion Software version:
 
 # Interfaccia utente
 
-![](https://gitlab.com/fablabcfv/stage_pcto/its_kennedy_21/alessandrini-luca/leapmotion/-/raw/main/img/UI.PNG)
+![](https://github.com/alesluca00/LeapMotion/blob/main/img/UI.PNG?raw=true)
 
 </br>
 
