@@ -1,0 +1,73 @@
+{
+  "circle radius min": 20,
+  "sensitivity x": 1,
+  "circle radius max": 50,
+  "display height": 1080,
+  "swipe delay": 1,
+  "screen delay": 1,
+  "display width": 1920,
+  "sensitivity y": 1,
+  "hand": 0,
+  "gestures": [
+    {
+      "keyCode1": 39,
+      "keyCode3": 0,
+      "keyCode2": 0,
+      "gesture": "swipe right"
+    },
+    {
+      "keyCode1": 37,
+      "keyCode3": 0,
+      "keyCode2": 0,
+      "gesture": "swipe left"
+    },
+    {
+      "keyCode1": 38,
+      "keyCode3": 0,
+      "keyCode2": 0,
+      "gesture": "swipe up"
+    },
+    {
+      "keyCode1": 40,
+      "keyCode3": 0,
+      "keyCode2": 0,
+      "gesture": "swipe down"
+    },
+    {
+      "keyCode1": 17,
+      "keyCode3": 0,
+      "keyCode2": 67,
+      "gesture": "circle clockwise"
+    },
+    {
+      "keyCode1": 17,
+      "keyCode3": 0,
+      "keyCode2": 86,
+      "gesture": "circle anticlockwise"
+    },
+    {
+      "keyCode1": 0,
+      "keyCode3": 0,
+      "keyCode2": 0,
+      "gesture": "key tap"
+    },
+    {
+      "keyCode1": 1,
+      "keyCode3": 0,
+      "keyCode2": 0,
+      "gesture": "screen tap"
+    },
+    {
+      "keyCode1": 0,
+      "keyCode3": 0,
+      "keyCode2": 0,
+      "gesture": "fist pose"
+    },
+    {
+      "keyCode1": 17,
+      "keyCode3": 78,
+      "keyCode2": 16,
+      "gesture": "victory pose"
+    }
+  ]
+}
